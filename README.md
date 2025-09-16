@@ -15,11 +15,6 @@
 📱 +91 9340824874
 
 
-
-# 💫 About Me:
-👋 Hi, I’m Rohit Patel<br>🎓 Computer Science student at Shri Vaishnav Vidyapeeth Vishwavidyalaya (2021–2025)<br>💻 Passionate about full-stack web development with hands-on experience in the MERN stack<br>🛠️ Skilled in React.js, Node.js, Express.js, MongoDB, and Tailwind CSS<br>📦 Experienced in building real-world apps with features like authentication, REST APIs, and Stripe integration<br>🚀 Currently a MERN Stack Trainee at Growtech, previously interned at Datex Technologies<br><br>🌐 Live Project<br>Sawari – Luxury Chauffeur Service<br>📫 Let’s Connect<br>LinkedIn<br>📧 rohitpatel90878@gmail.com<br>📱 +91 9340824874
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-patel-me) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpatel90878@gmail.com) 
 
