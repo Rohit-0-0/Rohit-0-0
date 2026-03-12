@@ -3,7 +3,7 @@
 🎓 Computer Science student at Shri Vaishnav Vidyapeeth Vishwavidyalaya (2021–2025)  
 💻 Passionate about full-stack web development with hands-on experience in the **MERN stack**  
 🛠️ Skilled in **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **AdonisJs**, and **Tailwind CSS**  
-📦 Experienced in building real-world apps with features like authentication, REST APIs, and Stripe integration 0 
+📦 Experienced in building real-world apps with features like authentication, REST APIs, and Stripe integration      
 🚀 Currently a **Full Stack Developer0** at **Yunicorn Technologies**, previously interned at **Datex Technologies**  
 
 ### 🌐 Live Project
