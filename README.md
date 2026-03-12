@@ -1,31 +1,150 @@
-# 👋 Hi, I’m Rohit Patel
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Rohit Patel</h1>
+<h3 align="center">Full Stack Developer | React • Node • Express • AdonisJS • MySQL</h3>
 
-🎓 Computer Science student at Shri Vaishnav Vidyapeeth Vishwavidyalaya (2021–2025)  
-💻 Passionate about full-stack web development with hands-on experience in the **MERN stack**  
-🛠️ Skilled in **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **AdonisJs**, and **Tailwind CSS**  
-📦 Experienced in building real-world apps with features like authentication, REST APIs, and Stripe integration      
-🚀 Currently a **Full Stack Developer0** at **Yunicorn Technologies**, previously interned at **Datex Technologies**  
-
-### 🌐 Live Project
-- [**Sawari** – Luxury Chauffeur Service](https://sawariii.netlify.app)
-
-### 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/rohit-patel-me/)  
-📧 rohitpatel90878@gmail.com  
-📱 +91 9340824874
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-patel-me) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpatel90878@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohit-0-0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohit-0-0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-0-0&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=rohit-0-0">
+    <img src="https://komarev.com/ghpvc/?username=rohit-0-0&label=Profile%20views&color=00FFFF&style=flat-square" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohit-0-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🚀 Full Stack Developer passionate about building scalable web applications  
+
+⚡ Skilled in **React.js, Node.js, Express.js, AdonisJS, MySQL, MongoDB, and REST API development**
+
+🌱 Currently learning **backend optimization, database performance tuning, and system design**
+
+💻 Building **full-stack applications with authentication, APIs, and payment integrations**
+
+🤝 Open to collaborating on **full-stack and open-source projects**
+
+📫 Reach me at **rohitpatel90878@gmail.com**
+
+---
+
+### Full Stack Developer  
+**Yunicorn Technologies** — Indore, India  
+*Sep 2025 – Present*
+
+• Developing and maintaining full-stack web applications using **React.js and Node.js**
+
+• Optimized backend **MySQL queries and API endpoints**, improving response time by **30–40%** through indexing, query restructuring, and reduced data fetching
+
+• Implemented **server-side filtering, search, and pagination** for large datasets to improve performance and reduce payload size
+
+• Built **reusable and responsive React components**, improving UI consistency across desktop and mobile devices
+
+• Debugged and resolved production issues related to **API responses, filtering logic, and pagination behavior**
+
+• Tested and validated REST APIs using **Postman**, ensuring reliable request handling and data accuracy
+
+• Collaborated with senior developers using **Git-based workflows**, contributing to feature development and bug fixes in an agile environment
+
+---
+
+# 🚀 Featured Project
+
+### 🚖 Sawari – Luxury Chauffeur Platform
+
+🔗 Live Demo  
+https://sawariii.netlify.app
+
+• Built a responsive chauffeur booking platform using **React + Tailwind CSS**
+
+• Implemented **authentication and protected routes**
+
+• Developed backend APIs using **Node.js and Express**
+
+• Integrated booking system and dynamic UI components
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Tailwind CSS
+
+---
+
+# 🧠 Focus Areas
+
+• Full Stack Web Development  
+• Backend API Development  
+• React Frontend Engineering  
+• Database Design (MySQL / MongoDB)  
+• REST API Architecture  
+
+---
+
+# 🛠 Languages & Tools
+
+### Programming Languages
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+</p>
+
+### Frontend
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
+</p>
+
+### Backend
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>    
+<img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48"/>  
+</p>
+
+### Database
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
+</p>
+
+### Tools
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-0-0&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-0-0&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-0-0&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohit-patel-me/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rohitpatel90878@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/919340824874">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+</p>
