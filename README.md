@@ -119,15 +119,15 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-0-0&show_icons=true&theme=tokyonight"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-0-0&show_icons=true&theme=tokyonight"/> -->
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-0-0&theme=tokyonight"/>
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-0-0&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
